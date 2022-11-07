@@ -1,5 +1,6 @@
 import os
 a=20
+b=200
 if a>20:
    print("a is grer")
 elif a<20:   
