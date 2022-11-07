@@ -1,6 +1,8 @@
 import os
+c=245
 a=20
-if a>20:
+b=10
+if a,b>20:
    print("a is grer")
 elif a<20:   
   print("a is lessthn 20")
